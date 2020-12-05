@@ -17,14 +17,14 @@ class YandexKassa
      *
      * @var string
      */
-    private $formAction = 'https://money.yandex.ru/eshop.xml';
+    private $formAction = 'https://yoomoney.ru/eshop.xml';
 
     /**
      * Payment form submit url for test payments
      *
      * @var string
      */
-    private $testFormAction = 'https://demomoney.yandex.ru/eshop.xml';
+    private $testFormAction = 'https://yoomoney.ru/eshop.xml';
 
     /**
      * Payment form submit method
